@@ -1,0 +1,768 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: traduction\n"
+"POT-Creation-Date: 2021-12-22 15:15+0100\n"
+"PO-Revision-Date: 2021-12-22 15:16+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: contact.php:44
+msgid "Nous contacter"
+msgstr "Contact us"
+
+#: contact.php:47
+msgid "Adresse mail"
+msgstr "E-mail"
+
+#: contact.php:51
+msgid "Téléphone"
+msgstr "Phone"
+
+#: contact.php:55
+msgid "Adresse postale"
+msgstr "Postal address"
+
+#: contact.php:58
+msgid "Nous contacter avant tout retour de matériel"
+msgstr "Contact us before any hardware returns"
+
+#: dashboard.php:49
+msgid ""
+"Affichage des données sur écran graphique TFT 4\"3 couleur avec un très bon "
+"contraste même en plein soleil,\n"
+"\t\t\t\tenregistrement des données de roulage (mini data logger) sur disque "
+"FLASH interne et transfert automatique sur clef USB. Il est décliné en trois "
+"versions :<br>\n"
+"\t\t\t\t<span class=\"violet titrecenter\">- TB401 : affichage de données "
+"CAN</span><br>\n"
+"\t\t\t\t<span class=\"violet titrecenter\">- TB402 : affichage de données "
+"CAN avec écran tactile pour configuration et/ou interaction\n"
+"\t\t\t\tavec véhicule</span><br>\n"
+"\t\t\t\t<span class=\"violet titrecenter\">- TB403 : affichage de données "
+"CAN avec écran tactile pour configuration\n"
+"\t\t\t\tet/ou interaction avec véhicule, 4 entrées, 3 sorties</span><br>"
+msgstr ""
+"Data display on 4\"3 wide colour TFT graphic display with very good contrast "
+"even in bright sunlight,\n"
+"\t\t\t\trecording of the driving data (mini data logger) on internal FLASH "
+"disk and automatic transfer to USB key. It is available in three versions:"
+"<br>\n"
+"\t\t\t\t<span class=\"violet titrecenter\">- TB401: CAN data display</"
+"span><br>\n"
+"\t\t\t\t<span class=\"violet titrecenter\">- TB402: CAN data display with "
+"touch screen for configuration and/or interaction\n"
+"\t\t\t\twith vehicle</span><br>\n"
+"\t\t\t\t<span class=\"violet titrecenter\">- TB403: CAN data display with "
+"touch screen for configuration\n"
+"\t\t\t\tand/or vehicle interaction, 4 inputs, 3 outputs</span><br>"
+
+#: dashboard.php:72
+msgid "Modèle plus compact et léger :"
+msgstr "More compact and lightweight:"
+
+#: dashboard.php:73
+msgid ""
+"Affichage des données sur écran graphique TFT 2\"8 couleur avec un très bon "
+"contraste sauf en plein soleil.<br>\n"
+"\t\t\t\tAffichage des données CAN sur plusieurs pages, en gros caractères "
+"très lisibles changeants de couleur en cas d'alerte."
+msgstr ""
+"Data display on a 2\"8 wide color TFT graphic display with very good "
+"contrast excoept in direct sunlight.<br>\n"
+"\t\t\t\tDisplay of CAN data on several pages, in large, highly legible "
+"characters that change colour in the event of an alert."
+
+#: dashboard.php:76
+msgid ""
+"- led pour signaler pré-alerte (orange fixe) et alerte (rouge clignotante),</"
+"span><br>\n"
+"\t\t\t\t<span class=\"violet titrecenter\">- possibilité de gérer un niveau "
+"de carburant virtuel\n"
+"\t\t\t\t(le plein est diminué de la quantité injectée), suivant modèle de "
+"calculateur de contrôle moteur.</span><br>\n"
+"\t\t\t\t<span class=\"violet titrecenter\">- compteur horaire du moteur</"
+"span><br>\n"
+"\t\t\t\tIl est entièrement configurable par son clavier et ne nécessite pas "
+"de connexion avec un ordinateur.<br>\n"
+"\t\t\t\tCe modèle n'est disponible que sur commande pour application "
+"spécifique.<br>\n"
+"\t\t\t\tExemple d'application pour gestion de moteur d'ULM pour : <a href="
+"\"https://www.ladaero.fr\" target=\"_blank\"><span class=\"violet souligne "
+"gras\">LAD Aéro</span></a>"
+msgstr ""
+"- led to signal pre-alarm (steady amber) and alert (flashing red),</"
+"span><br>\n"
+"\t\t\t\t<span class=\"violet titrecenter\">- ability to manage a virtual "
+"fuel level\n"
+"\t\t\t\t(the full tank is reduced by the quantity injected), according to "
+"the engine control unit model.</span><br>\n"
+"\t\t\t\t<span class=\"violet titrecenter\">- engine hour meter</span><br>\n"
+"\t\t\t\tIt is fully configurable via its keyboard and does not require a "
+"connection to a computer.<br>\n"
+"\t\t\t\tThis model is only available on order for specific applications."
+"<br>\n"
+"\t\t\t\tExample of application for ULM motor management for : <a href="
+"\"https://www.ladaero.fr\" target=\"_blank\"><span class=\"violet souligne "
+"gras\">Aero LAD</span></a>"
+
+#: dashboard.php:96
+msgid ""
+"Il a équipé de nombreux véhicules en \"première monte\" :<br>\n"
+"\t\t\t\t<span class=\"violet titrecenter\">- 207 Spider, 207 RCRallye (207 "
+"R3T)</span><br>\n"
+"\t\t\t\t<span class=\"violet titrecenter\">- Fun Cup</span><br>\n"
+"\t\t\t\t<span class=\"violet titrecenter\">- Mitjet 1300, Hacker Hayabusa, "
+"Legends cars...</span><br>\n"
+"\t\t\t\t<span class=\"violet titrecenter\">- Et une foultitude d'engins "
+"variés, dans toutes disciplines, avec tous types de moteurs...</span><br>\n"
+"\n"
+"\t\t\t\tModèle phare pendant de longues années, il n'est plus fabriqué.<br>\n"
+"\t\t\t\tIl nous reste cependant de nombreuses pièces détachées permettant de "
+"vous proposer :"
+msgstr ""
+"The TB100 was installed on many vehicles as \"original equipment\":<br>\n"
+"\t\t\t\t<span class=\"violet titrecenter\">- 207 Spider, 207 RCR rally (207 "
+"R3T)</span><br>\n"
+"\t\t\t\t<span class=\"violet titrecenter\">- Fun Cup</span><br>\n"
+"\t\t\t\t<span class=\"violet titrecenter\">- Mitjet 1300, Hacker Hayabusa, "
+"Legends cars...</span><br>\n"
+"\t\t\t\t<span class=\"violet titrecenter\">- And a lot of various machines, "
+"in all disciplines, with all types of engines...</span><br>\n"
+"\n"
+"\t\t\t\tA flagship model for many years, it is no longer manufactured.<br>\n"
+"\t\t\t\tHowever, we still have a lot of spare parts left to offer you:"
+
+#: dashboard.php:104
+msgid ""
+"- évolution votre TB100 en fonction de l'évolution de votre véhicule\n"
+"\t\t\t\t(changement de moteur, calculateur, boite de vitesse...) ou de "
+"l'achat d'un TB100 d'occasion</span><br>\n"
+"\t\t\t\t<span class=\"violet titrecenter\">- réparation de votre TB100</"
+"span><br>\n"
+"\t\t\t\t<span class=\"violet titrecenter\">- vente d'un TB100 reconditionné "
+"en fonction des reprises et échanges que nous effectuons</span><br>\n"
+"\t\t\t\tN'hésitez pas à nous contacter pour toute question."
+msgstr ""
+"- modifications to your existing TB100 according to the evolution of your "
+"vehicle\n"
+"\t\t\t\t(engine change, calculator, gearbox...) or the purchase of a used "
+"TB100<br>\n"
+"\t\t\t\t<span class=\"violet titrecenter\">- repairing your TB100</"
+"span><br>\n"
+"\t\t\t\t<span class=\"violet titrecenter\">- sale of refurbished TB100 "
+"dashboards based on qualified exchanges</span><br>Please contact us for any "
+"questions."
+
+#: distributeurs.php:47 test/distributeurs.php:47
+msgid "Distributeurs RR420"
+msgstr "RR 420 dealers"
+
+#: distributeurs.php:67 test/distributeurs.php:67
+msgid "Distributeurs TB400"
+msgstr "TB400 dealers"
+
+#: distributeurs.php:77 test/distributeurs.php:77
+msgid ""
+"N'hésitez pas à nous contacter afin de rejoindre notre équipe de "
+"distributeurs"
+msgstr "Don't hesitate to contact us to join our team of distributors"
+
+#: historique.php:45
+msgid "Actualités, calendriers... du véhicule historique"
+msgstr "News, calendars... of the historic vehicle (all in french language)"
+
+#: historique.php:49
+msgid ""
+"Christophe MARQUES, concepteur et testeur du RR420 nous fait partager ses "
+"comptes-rendus de rallye (uniquement en langue fran&ccedil;aise):"
+msgstr ""
+"Christophe MARQUES, designer and tester of the RR420 shares his rally "
+"reports with us (all in french language):"
+
+#: historique.php:51
+msgid "Rallye de régularité : Monte-Carlo Historique 2020... au pied du podium"
+msgstr ""
+"Regularity rally: Monte-Carlo Historic 2020... at the foot of the podium"
+
+#: historique.php:53 historique.php:63
+msgid "Compte-rendu de l'équipage 38-SABY/MARQUES"
+msgstr "Crew Report 38-SABY/MARQUES"
+
+#: historique.php:56
+msgid "Rallye de régularité : Portugal Historique 2019"
+msgstr "Regularity Rally: Portugal Historic 2019"
+
+#: historique.php:58
+msgid "Compte-rendu de l'équipage 76-HOUY/MARQUES"
+msgstr "Crew report 76-HOUY/MARQUES"
+
+#: historique.php:61
+msgid ""
+"Rallye de régularité : Monte-Carlo Historique 2019 et les R8 à l'honneur"
+msgstr "Regularity Rally: Monte-Carlo Historic 2019 and R8s in the spotlight"
+
+#: historique.php:66
+msgid "Rallye de régularité VHRS : Tour de Corse Historique 2018"
+msgstr "VHRS Regularity Rally: Historic Tour of Corsica 2018"
+
+#: historique.php:68
+msgid "Compte-rendu de l'équipage 288-VERDIELL/MARQUES"
+msgstr "Crew Report 288-VERDIELL/MARQUES"
+
+#: historique.php:71
+msgid "Rallye de régularité : Monte-Carlo Historique 2017"
+msgstr "Regularity Rally: Monte-Carlo Historic 2017"
+
+#: historique.php:73
+msgid "Compte-rendu de l'équipage 33-LARROQUE-MARQUES"
+msgstr "Crew Report 33-LARROQUE-MARQUES"
+
+#: historique.php:76
+msgid "Rallye de régularité : Monte-Carlo Historique 2016"
+msgstr "Regularity Rally: Monte-Carlo Historic 2016"
+
+#: historique.php:78
+msgid "Compte-rendu de l'équipage 147-GRANGEON-MARQUES"
+msgstr "Crew Report 147-GRANGEON-MARQUES"
+
+#: index.php:36 test/index.php:36
+msgid ""
+"conçoit et produit des systèmes d'instrumentation pour le sport automobile "
+"depuis 1999. Nos tableaux de bord, cadenceurs de rallye de régularité, "
+"tripmasters, chronomètres sont utilisés par des équipages dans toute "
+"l'Europe avec un accent sur l'"
+msgstr ""
+"has designed and produced instrumentation systems for motorsport since 1999. "
+"Our dashboards, regularity rally timers, tripmasters, lap timers are "
+"utilized by driving teams throughout Europe with a focus on "
+
+#: index.php:36 test/index.php:36
+msgid "efficacité, la qualité et la facilité d'utilisation."
+msgstr "efficiency, quality and ease of use."
+
+#: index.php:64 test/index.php:64
+msgid "Quelle efficacité ?"
+msgstr "EFFICIENCY"
+
+#: index.php:66 test/index.php:66
+msgid ""
+"Lisibilité maximale des données affichées quelques soient les conditions "
+"d'éclairage."
+msgstr ""
+"Maximum readability of the data displayed under all lighting conditions."
+
+#: index.php:68 test/index.php:68
+msgid "Affichage en temps réel des informations."
+msgstr "Real-time information display."
+
+#: index.php:70 test/index.php:70
+msgid ""
+"Utilisation systématique du bus multiplexé CAN pour réduire le câblage. Cela "
+"permet aussi d'apporter des fonctions\n"
+"\t\t\tde diagnostic des calculateurs de contrôle moteur."
+msgstr ""
+"Systematic use of the CAN multiplexed bus to reduce wiring. This also makes "
+"it possible to provide functions\n"
+"\t\t\tfor engine control unit diagnostics."
+
+#: index.php:75 test/index.php:75
+msgid "Quelle qualité ?"
+msgstr "QUALITY"
+
+#: index.php:77 test/index.php:77
+msgid ""
+"Les afficheurs TFT couleurs sont fabriqués en Allemagne par des "
+"équipementiers réputés pour la qualité de leur production.\n"
+"\t\t\tTous les produits sont ensuite assemblés, programmés et testés dans "
+"nos locaux pour une qualité optimale."
+msgstr ""
+"Our TFT colour displays are manufactured in Germany by OEMs renowned for the "
+"quality of their production.\n"
+"\t\t\tAll products are then assembled, programmed and tested at our premises "
+"for optimum quality."
+
+#: index.php:79 test/index.php:79
+msgid "- Les afficheurs TB300 sont garantis 3 ans."
+msgstr "- TB300 displays are guaranteed for 3 years."
+
+#: index.php:80 test/index.php:80
+msgid "- Les afficheurs RR420-RP380-TB400-TB400 Pro sont garantis 2 ans."
+msgstr "- The RR420-RP380-TB400-TB400 Pro displays are guaranteed for 2 years."
+
+#: index.php:87 test/index.php:87
+msgid "Nos services ?"
+msgstr "SERVICES"
+
+#: index.php:89 test/index.php:89
+msgid ""
+"est une entreprise française qui réalise l'étude et la conception de ses "
+"produits."
+msgstr ""
+"is a French company which carries out the study and design of its products."
+
+#: index.php:90 test/index.php:90
+msgid "- CRISARTECH vous accompagne et étudie vos besoins."
+msgstr ""
+"- CRISARTECH responds to your needs and provides customer support through "
+"available tutorials and telephone support."
+
+#: index.php:91 test/index.php:91
+msgid ""
+"- CRISARTECH est aussi un bureau d'étude qui vous conseille et personnalise "
+"ses produits afin de vous satisfaire.\n"
+"\t "
+msgstr ""
+"- CRISARTECH offers design advice and personalizes its products in order to "
+"satisfy your needs.\n"
+"\t "
+
+#: index.php:93 test/index.php:93
+msgid ""
+"- CRISARTECH vous aide à l'installation et à la configuration du matériel..."
+msgstr ""
+"- CRISARTECH assists with the installation and configuration of their "
+"hardware ..."
+
+#: index.php:97 test/index.php:97
+msgid "Démarche environnementale"
+msgstr "Environmental approach"
+
+#: index.php:98 test/index.php:98
+msgid ""
+"s'emploie à réduire autant que possible son empreinte environnementale :"
+msgstr "is working to reduce its environmental footprint as much as possible:"
+
+#: index.php:100 test/index.php:100
+msgid "- Consommation d'électricité renouvelable."
+msgstr "- Consumption of renewable electricity."
+
+#: index.php:101 test/index.php:101
+msgid "- Limitation des déplacements."
+msgstr "- Travel restrictions."
+
+#: index.php:102 test/index.php:102
+msgid "- Réduction et recyclage des déchets."
+msgstr "- Waste reduction and recycling."
+
+#: index.php:103 test/index.php:103
+msgid "- Ré-utilisation des emballages."
+msgstr "- Re-use of packaging."
+
+#: index.php:104 test/index.php:104
+msgid "- Utilisation de matériel reconditionné (téléphones, ordinateurs ...)."
+msgstr "- Use of reconditioned equipment (telephones, computers ...)."
+
+#: index.php:105 test/index.php:105
+msgid ""
+"- Fabrication de produits fiables, évolutifs et réparables. Une politique "
+"payante pour l'environnement et pour nos clients."
+msgstr ""
+"- Manufacture of reliable, upgradeable and repairable products. A policy "
+"that pays off for the environment and for our customers."
+
+#: mentions-legales.php:24
+msgid "Mentions légales"
+msgstr "Legal Notice"
+
+#: mentions-legales.php:26
+msgid ""
+"Les informations, caractéristiques techniques, et prix contenus dans ce site "
+"sont donnés à titre indicatif,\n"
+"    sous la responsabilité de son gérant Christophe MARQUES.<br>\n"
+"    Ils n'ont aucune valeur contractuelle et CRISARTECH se réserve le droit "
+"de les modifier sans préavis.<br>\n"
+"    CRISARTECH est une S.A.R.L. au capital variable de 15 000€ minimum.<br>\n"
+"    RCS de MONTAUBAN n° 477 640 387 (2004 B 265) - SIRET : 477 640 387 00015 "
+"- Code TVA : FR 22 477 640 387 - Code APE : 62.01Z<br>\n"
+"\tAdresse du siège social : 161 chemin du ROC - 82300 MONTEILS - "
+"FRANCE<br><br>\n"
+"\tSite hébergé par Online SAS - BP 438 - 75366 Paris CEDEX 08"
+msgstr ""
+"The information, technical characteristics, and prices contained in this "
+"site are given as an indication,\n"
+"    under the responsibility of its manager Christophe MARQUES.<br>\n"
+"    They have no contractual value and CRISARTECH reserves the right to "
+"modify them without notice.<br>\n"
+"    CRISARTECH is a S.A.R.L. with a variable capital of 15 000€ minimum."
+"<br>\n"
+"    RCS de MONTAUBAN n° 477 640 387 (2004 B 265) - SIRET : 477 640 387 00015 "
+"- VAT Code : FR 22 477 640 387 - APE Code : 62.01Z<br>\n"
+"\tHead office address: 161 chemin du ROC - 82300 MONTEILS - FRANCE<br><br>\n"
+"\tSite hosted by Online SAS - BP 438 - 75366 Paris CEDEX 08</br></br></br></"
+"br></br></br>"
+
+#: menu.php:18 test/menu.php:18
+msgid "Accueil"
+msgstr "Home page"
+
+#: menu.php:19 test/menu.php:19 tripmaster.php:47
+msgid "Tripmaster"
+msgstr "Tripmaster"
+
+#: menu.php:20 test/menu.php:20
+msgid "Rallyes Régularité"
+msgstr "Regularity Rallies"
+
+#: menu.php:21 test/menu.php:21
+msgid "Rallyes Vitesse"
+msgstr "Speed rallies"
+
+#: menu.php:22 test/menu.php:22
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: menu.php:23 test/menu.php:23
+msgid "Historique"
+msgstr "History"
+
+#: menu.php:24 test/menu.php:24
+msgid "Distributeurs"
+msgstr "Dealers"
+
+#: menu.php:25 test/menu.php:25
+msgid "Contact"
+msgstr "Contact"
+
+#: menu.php:32 test/menu.php:32
+msgid "Langue"
+msgstr "Language"
+
+#: menu.php:33 test/menu.php:33
+msgid "Francais"
+msgstr "French"
+
+#: menu.php:34 test/menu.php:34
+msgid "Anglais"
+msgstr "English"
+
+#: menu.php:35 test/menu.php:35
+msgid "Espagnol"
+msgstr "Spanish"
+
+#: menu.php:36 test/menu.php:36
+msgid "Italien"
+msgstr "Italian"
+
+#: pied_p.php:17 pied_p.php:24
+msgid "Démonstrations et tutoriels"
+msgstr "Demonstrations and tutorials"
+
+#: pied_p.php:18 pied_p.php:25
+msgid "Actualité"
+msgstr "News"
+
+#: pied_p.php:30
+msgid "depuis 1999... déjà plus de 20 ans !"
+msgstr "since 1999... already more than 20 years!"
+
+#: pied_p.php:31
+msgid "MENTIONS LEGALES"
+msgstr "LEGAL NOTICES"
+
+#: rallyesregularite.php:47
+msgid "Tripmaster / Cadenceur RR420"
+msgstr "Tripmaster / Timer RR420"
+
+#: rallyesregularite.php:49
+msgid ""
+"Le cadenceur indispensable aux équipages de rallye de régularité</h3>\n"
+"\t<div class=\"textalign\">\n"
+"\t\t<p>\n"
+"\t\t\t<span class=\"violet\">CRISARTECH </span>vous propose un cadenceur qui "
+"bouscule tous les codes de la discipline :\n"
+"\t\t\t<br>\n"
+"\t\t\t- un <span class=\"violet titrecenter\">écran couleur</span> pour une "
+"meilleure lisibilité<br>\n"
+"\t\t\t- un <span class=\"violet titrecenter\">écran tactile </span> pour une "
+"prise en main très intuitive <br>\n"
+"\t\t\t- un <span class=\"violet titrecenter\">lecteur de clefs USB </"
+"span>pour faciliter les échanges de fichiers et les mises à jour"
+msgstr ""
+"The essential timer for regularity rally crews</h3>\n"
+"\t<div class=\"textalign\">\n"
+"\t\t<p>\n"
+"\t\t\t<span class=\"violet\">CRISARTECH </span>offers you one of the most "
+"innovative cadencer device on the market:\n"
+"\t\t\t<br>\n"
+"\t\t\t- a <span class=\"violet titrecenter\">colour screen</span> for better "
+"readability<br>\n"
+"\t\t\t- a <span class=\"violet titrecenter\">touch screen </span> for a very "
+"intuitive handling <br>\n"
+"\t\t\t- a <span class=\"violet titrecenter\">USB key reader </span>to "
+"facilitate file exchanges and updates"
+
+#: rallyesregularite.php:61
+msgid "Les cadenceurs compliqués, c'est terminé !"
+msgstr "Complicated timers are a thing of the past!"
+
+#: rallyesregularite.php:64
+msgid ""
+"<span class=\"violet\">- mesure des distances sur deux roues, </span>avec la "
+"précision du mètre pour les capteurs de vitesse roue.\n"
+"\t\t\tAvec la prise OBDII jusqu'à 1 cm de précision et mesure jusqu'à 4 "
+"roues (suivant véhicule)<br>\n"
+"\t\t\t<span class=\"violet\">- chronomètre au 1/100 seconde</span><br>\n"
+"\t\t\t<span class=\"violet\">- télécommande infrarouge </span>et/ou un "
+"clavier déporté à gros boutons<br>\n"
+"\t\t\t<span class=\"violet\">- boitier optionnel affichant 6 leds "
+"multicolores</span> (équivalence 18 leds)\n"
+"\t\t\tpar reflet sur le pare-brise, en vision tête haute (HUD) comme pour "
+"les avions de chasse.\n"
+"\t\t\tLe pilote voit les leds sans quitter la route des yeux<br>\n"
+"\t\t\t<span class=\"violet\">- installation en moins de 2 minutes </span>sur "
+"la prise OBDII d'un véhicule de série récent\n"
+"\t\t\tpour l'entrainement, les reconnaissances ou les rallyes \"Energies "
+"Nouvelles\"<br>\n"
+"\t\t\t<span class=\"violet\">- récepteur GPS de précision </span>pour des "
+"recalages automatiques du trip plus fiables par l'utilisation des satellites "
+"américains, russes et européens.\n"
+"\t\t\tLa précision, de l'ordre de 2 mètres, est comparable à un recalage "
+"manuel effectué sur table, loin des conditions réelles (nuit, brouillard, "
+"secousses...)<br>\n"
+"\t\t\t<span class=\"violet\">- synchronisation automatique de son horloge </"
+"span>sur celle du GPS pour des démarrages automatiques du chrono très "
+"précis<br><br>\n"
+"\t\t\tLe RR420 comprend une interface pour capteurs et accessoires intégrée "
+"derrière l’afficheur.\n"
+"\t\t\tTélécharger le tarif ci-dessous pour en savoir plus..."
+msgstr ""
+"-<span class=\"violet\"> measure distances on two wheels, </span>with metre "
+"accuracy for wheel speed sensors.\n"
+"\t\t\tWith OBDII socket up to 1 cm accuracy and measures up to 4 wheels "
+"(depending on vehicle)<br>\n"
+"\t\t\t<span class=\"violet\">- 1/100 second stopwatch</span><br>\n"
+"\t\t\t-<span class=\"violet\"> infrared remote control </span>and/or a "
+"remote keyboard with large buttons<br>\n"
+"\t\t\t-<span class=\"violet\"> optional box displaying 6 multicolored leds</"
+"span> (18 leds equivalent)\n"
+"\t\t\tby reflection on the windshield, in head-up display (HUD) as for the "
+"fighter planes.\n"
+"\t\t\tThe pilot sees the leds without taking his eyes off the road<br>\n"
+"\t\t\t-<span class=\"violet\"> installation in less than 2 minutes </span>on "
+"the OBDII socket of a recent production vehicle\n"
+"\t\t\tfor training, reconnaissance or \"New Energies\" rallies<br>\n"
+"\t\t\t-<span class=\"violet\"> precision GPS receiver </span>for more "
+"reliable automatic trip recalculations by using American, Russian and "
+"European satellites.\n"
+"\t\t\tThe precision, of the order of 2 meters, is comparable to a manual "
+"recalibration carried out on a table, far from the real conditions (night, "
+"fog, shocks...)<br>\n"
+"\t\t\t-<span class=\"violet\"> automatic synchronization of its clock </"
+"span>with that of the GPS for very precise automatic start-ups of the "
+"chrono<br><br>\n"
+"\t\t\tThe RR420 includes an interface for sensors and accessories integrated "
+"behind the display.\n"
+"\t\t\tDownload the price list below to learn more...</br>"
+
+#: rallyesregularite.php:80
+msgid "Ce cadenceur est maintenant décliné en version spéciale Rallye Raid !"
+msgstr "This timer is now available in a special Rally Raid version!"
+
+#: rallyesregularite.php:84
+msgid ""
+"En plus de l'aspect régularité, la navigation est aidée par une fonction de "
+"<span class=\"violet\">suivi de cap</span>."
+msgstr ""
+"In addition to the regularity aspect, the navigation is helped by a <span "
+"class=\"violet\">course tracking</span> function."
+
+#: rallyesvitesse.php:48
+msgid ""
+"vous propose un ordinateur de bord pour co-pilote de rallye permettant de "
+"comparer différents runs d'une même spéciale :\n"
+"\t\t\t<br>\n"
+"\t\t\t- un <span class=\"violet titrecenter\">écran couleur</span> pour une "
+"meilleure lisibilité<br>\n"
+"\t\t\t- un <span class=\"violet titrecenter\">écran tactile </span> pour une "
+"prise en main très intuitive <br>\n"
+"\t\t\t- un <span class=\"violet titrecenter\">lecteur de clefs USB </"
+"span>pour faciliter les échanges de fichiers et les mises à jour"
+msgstr ""
+"offers you an on-board computer for rally co-drivers that allows you to "
+"compare different runs on the same stage:\n"
+"\t\t\t<br>\n"
+"\t\t\t- a <span class=\"violet titrecenter\">color screen</span> for a "
+"better readability<br>\n"
+"\t\t\t- a <span class=\"violet titrecenter\">touch screen </span> for a very "
+"intuitive handling <br>\n"
+"\t\t\t- a <span class=\"violet titrecenter\">USB key reader </span>to "
+"facilitate file exchanges and updates"
+
+#: rallyesvitesse.php:57
+msgid ""
+"Les fonctionnalités sont en cours de validation par des co-pilotes renommés"
+msgstr "The features are being validated by renowned co-pilots"
+
+#: tripmaster.php:49
+msgid ""
+"</h3>\n"
+"\t<div class=\"textalign\">\n"
+"\t\t<p>\n"
+"\t\t\t<span class=\"violet\">CRISARTECH </span>vous propose une nouvelle "
+"gamme de Tripmaster pour différentes utilisations reprenant les qualités "
+"reconnues du RR420.\n"
+"\t\t\t<br>\n"
+"\t\t\t- un <span class=\"violet titrecenter\">écran couleur</span> pour une "
+"meilleure lisibilité<br>\n"
+"\t\t\t- un <span class=\"violet titrecenter\">écran tactile </span> pour une "
+"prise en main très intuitive <br>\n"
+"\t\t\t- <span class=\"violet titrecenter\"> trois compteurs kilométriques </"
+"span> indépendants <br>\n"
+"\t\t\t- un <span class=\"violet titrecenter\">chronomètre </span> <br>\n"
+"\t\t\t- une<span class=\"violet titrecenter\"> horloge </span>synchronisée "
+"automatiquement sur celle du GPS <br>\n"
+"\t\t\t- une<span class=\"violet titrecenter\"> gestion des contrôles "
+"horaires </span> avec calcul des moyennes à tenir<br>\n"
+"\t\t\t- un<span class=\"violet titrecenter\"> étalonnage simple et rapide </"
+"span> pouvant être affiné en début de rallye<br>\n"
+"\t\t\t- une <span class=\"violet titrecenter\"> correction des distances </"
+"span> par méthode classique \"Figer/Corriger\"<br>\n"
+"\t\t\t- une<span class=\"violet titrecenter\"> saisie des distances </span> "
+"du road-book à l'avance permettant d'avoir un décompte jusqu'au point de "
+"repère ( méthode plus efficace)<br>\n"
+"\t\t\t- un <span class=\"violet titrecenter\">lecteur de clefs USB </"
+"span>pour les mises à jour"
+msgstr ""
+"</h3>\n"
+"\t<div class=\"textalign\">\n"
+"\t\t<p>\n"
+"\t\t\t<span class=\"violet\">CRISARTECH </span>offers you a new range of "
+"Tripmaster for different uses, taking up the recognized qualities of the "
+"RR420.\n"
+"\t\t\t<br>\n"
+"\t\t\t- a <span class=\"violet titrecenter\">color screen</span> for better "
+"readability<br>\n"
+"\t\t\t- a <span class=\"violet titrecenter\">touch screen </span> for a very "
+"intuitive handling <br>\n"
+"\t\t\t- <span class=\"violet titrecenter\"> three </span> independent <span "
+"class=\"violet titrecenter\"> odometers </span> <br>\n"
+"\t\t\t- a <span class=\"violet titrecenter\">stopwatch </span> <br>\n"
+"\t\t\t- a<span class=\"violet titrecenter\"> clock </span>automatically "
+"synchronized with the GPS clock <br>\n"
+"\t\t\t- a<span class=\"violet titrecenter\"> management of the hourly "
+"controls </span> with calculation of the averages to be kept<br>\n"
+"\t\t\t- a<span class=\"violet titrecenter\"> simple and quick calibration </"
+"span> that can be refined at the beginning of the rally<br>\n"
+"\t\t\t- a <span class=\"violet titrecenter\"> correction of distances </"
+"span> by the classic method \"Freeze/Correct\"<br>\n"
+"\t\t\t- an<span class=\"violet titrecenter\"> input of </span> the road-"
+"book<span class=\"violet titrecenter\"> distances </span> in advance "
+"allowing to have a countdown to the landmark (more efficient method)<br>\n"
+"\t\t\t- a <span class=\"violet titrecenter\">USB key reader </span>for "
+"updates"
+
+#: tripmaster.php:68
+msgid ""
+"Nos Tripmasters peuvent évoluer vers nos cadenceurs RR400/420 <br> lors du "
+"passage aux rallyes de régularité !"
+msgstr ""
+"Our Tripmasters can be upgraded to our RR400/420 cadence machines <br>when "
+"moving to regularity rallies!</br> "
+
+#: tripmaster.php:71
+msgid "Cette gamme de Tripmaster se décline de la façon suivante :"
+msgstr "This range of Tripmaster is declined in the following way:"
+
+#: tripmaster.php:73
+msgid ""
+"<span class=\"violet\">TG400 </span><br>\n"
+"\t\t\t- <span class=\"violet titrecenter\"> mesures par GPS </span> avec une "
+"précision de l'ordre de 2 m par km grâce à l'utilisation simultanée des "
+"satellites américains, russes et européens <br>\n"
+"\t\t\t-<span class=\"violet\"> plus besoin d'installer de capteurs !</span> "
+"Idéal pour préserver votre véhicule historique<br><br>\n"
+"\n"
+"\t\t\t<span class=\"violet\">TO400 </span><br>\n"
+"\t\t\t-<span class=\"violet\"> topomètre, odomètre </span> pour "
+"professionnels de la route avec mesure de surface<br>\n"
+"\t\t\t-<span class=\"violet\"> branchement rapide </span>sur prise de "
+"diagnostic (OBD) des véhicules récents<br>\n"
+"\t\t\t-<span class=\"violet\"> précision garantie </span> de 10 cm sur les "
+"véhicules du groupe PSA et Fiat, nous consulter pour les autres "
+"véhicules<br><br>\n"
+"\n"
+"\t\t\t<span class=\"violet\">TR420 </span><br>\n"
+"\t\t\tFonctionnalités du TG400 et TO400 plus les fonctions avancées "
+"suivantes :<br>\n"
+"\t\t\t-<span class=\"violet\"> mesure </span> des distances sur 2 roues à "
+"l'aide de capteurs 2 ou 3 fils (compatible avec la plupart des capteurs du "
+"marché)<br>\n"
+"\t\t\t-<span class=\"violet\"> télécommande infrarouge </span>pour saisie "
+"anticipée très rapide des distances<br><br>"
+msgstr ""
+"<span class=\"violet\">TG400 </span><br>\n"
+"\t\t\t- <span class=\"violet titrecenter\"> GPS measurements </span> with a "
+"2 m per km accuracy thanks to the simultaneous use of American, Russian and "
+"European satellites <br>\n"
+"\t\t\t-<span class=\"violet\"> no need to install sensors!</span> Ideal to "
+"preserve your historic vehicle<br><br>\n"
+"\n"
+"\t\t\t<span class=\"violet\">TO400 </span><br>\n"
+"\t\t\t-<span class=\"violet\"> topometer, odometer </span> for road "
+"professionals with surface measurement<br>\n"
+"\t\t\t-<span class=\"violet\"> quick connection </span>to the diagnostic "
+"socket (OBD) of recent vehicles<br>\n"
+"\t\t\t- 10 cm<span class=\"violet\"> accuracy guaranteed </span> on PSA and "
+"Fiat vehicles, consult us for other vehicles<br><br>\n"
+"\n"
+"\t\t\t<span class=\"violet\">TR420 </span><br>\n"
+"\t\t\tFunctionalities of the TG400 and TO400 plus the following advanced "
+"functions :<br>\n"
+"\t\t\t- distance<span class=\"violet\"> measurement </span> on 2 wheels with "
+"2 or 3 wires sensors (compatible with most of the sensors on the "
+"market)<br>\n"
+"\t\t\t-<span class=\"violet\"> infrared remote control </span>for very fast "
+"advance distance measurement<br><br>"
+
+#: tripmaster.php:89
+msgid "Télécharger les documents ci-dessous pour en savoir plus..."
+msgstr "Download the documents below to learn more..."
+
+#~ msgid "Démonstration et tutoriels"
+#~ msgstr "Demonstration and tutorials"
+
+#~ msgid "Dashboard TB300"
+#~ msgstr "Dashboard TB300"
+
+#~ msgid ""
+#~ "s'implique depuis 1999 dans la conception et la production de systèmes "
+#~ "d'instrumentation\n"
+#~ "\t\t\t\t\tpour la compétition automobile, produits racing : dashboards, "
+#~ "cadenceurs pour rallye de régularité,\n"
+#~ "\t\t\t\t\ttripmasters, chronos... Notre maître mot  "
+#~ msgstr ""
+#~ "has been involved since 1999 in the instrumentation systems design and "
+#~ "production \n"
+#~ "\t\t\t\t\tfor motorsport: dashboards, regularity rally timers,\n"
+#~ "\t\t\t\t\ttripmasters, lap timers... Our key word  "
+
+#~ msgid "EFFICACITE."
+#~ msgstr "EFFICIENCY."
+
+#, fuzzy
+#~| msgid "L' efficacité pour un afficheur, c'est quoi ?"
+#~ msgid "L' efficacité pour un cadenceur, c'est quoi ?"
+#~ msgstr "What is the effectiveness of a display?"
+
+#, fuzzy
+#~| msgid ""
+#~| "Une ergonomie très étudiée. Chaque page d'affichage est optimisée pour "
+#~| "afficher ce qui est nécessaire à chaque\n"
+#~| "\t\t\t\t\t\tmoment et seulement ce qui est nécessaire."
+#~ msgid ""
+#~ "Une ergonomie très étudiée. Chaque page d'affichage est optimisée pour "
+#~ "afficher ce qui est nécessaire à chaque\n"
+#~ "\t\t\tmoment et seulement ce qui est nécessaire."
+#~ msgstr ""
+#~ "A well-studied ergonomics. Each display page is optimized to show what is "
+#~ "needed for each\n"
+#~ "\t\t\t\t\t\ttime and only what is needed."
